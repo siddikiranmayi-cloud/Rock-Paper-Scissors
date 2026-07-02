@@ -33,4 +33,5 @@ If you want to clone this repository and test the code on your local environment
 
 1. Clone this repository:
    ```bash
+   https://github.com/siddikiranmayi-cloud/Rock-Paper-Scissors
    
